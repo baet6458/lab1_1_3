@@ -2,7 +2,7 @@
 ---
 This repository is for Lab 1 part 3 submission
  
-## 1.1 Android Studio and Hello World
+## 1.3 Text and scrolling views
  
 In this section we learned how to add headings/subheadings. Adding scrolling text
 ,as well as, scrolling multiple views at a time.
